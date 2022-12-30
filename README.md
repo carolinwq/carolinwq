@@ -1,7 +1,7 @@
 ### Oiii, eu sou a Carol! 
 <br>
 
-📚 **Formação:** Marketing SENAC
+📚 **Formação:** Marketing - SENAC
 <br>
 💼 **Experiência Atual:** Analista de Marketing no Elo7<br>
 💗 **Hobbies:** Leitura, Política, Desenho, DIY e projetos manuais, Bordado<br>
