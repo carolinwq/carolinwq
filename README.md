@@ -4,6 +4,7 @@
 
 
 <br>
+
 📚 **Formação:** Marketing - SENAC
 <br>
 💼 **Experiência Atual:** Analista de Marketing Jr no Elo7<br>
