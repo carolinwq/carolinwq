@@ -1,16 +1,21 @@
-### Oiii, eu sou a Carol! 
+### Oiii, eu sou a Carol 💟
+<img src="peachcat-new.gif">
 <br>
 
+📅 **Idade:** 23 anos
+<br>
 📚 **Formação:** Marketing - SENAC
 <br>
-💼 **Experiência Atual:** Analista de Marketing no Elo7<br>
-💗 **Hobbies:** Leitura, Política, Shows, Desenho, DIY, Bordado, Projetos Manuais<br>
+💼 **Experiência Atual:** Analista de Marketing Jr no Elo7<br>
+💗 **Hobbies:** Leitura, Política, Shows, Desenho, DIY, Artesanato, Projetos Sociais<br>
 <br>
 <em>Depois de um tempo focada apenas em marketing/negócios, tenho aprendido mais sobre desenvolvimento web e sigo tentando ganhar o meu espacinho na área tech.</em><br>
 <br>
-• Formada no projeto "Eu Progr{amo}" pela PrograMaria<br>
-• Estudante de Front-end na Alura<br>
+• Formada no projeto <em>Eu Progr{amo}</em> pela ONG <a href="https://www.programaria.org/">PrograMaria</a><br>
+• Estudante de Front-end na <a href="https://www.alura.com.br/">Alura</a><br>
 <br>
+
+💡 **Atualmente aprendendo sobre:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
