@@ -7,7 +7,7 @@
 📚 **Formação:** Marketing - SENAC
 <br>
 💼 **Experiência Atual:** Analista de Marketing Jr no Elo7<br>
-💗 **Hobbies:** Leitura, Política, Shows, Desenho, DIY, Artesanato, Projetos Sociais<br>
+💗 **Hobbies:** Leitura, Política, Shows, Desenho, DIY, Artesanato, Decoração, Projetos Sociais<br>
 <br>
 <em>Depois de um tempo focada apenas em marketing/negócios, tenho aprendido mais sobre desenvolvimento web e sigo tentando ganhar o meu espacinho na área tech.</em><br>
 <br>
@@ -15,7 +15,7 @@
 • Estudante de Front-end na <a href="https://www.alura.com.br/">Alura</a><br>
 <br>
 
-💡 **Atualmente aprendendo sobre:**
+💡 **Em constante aprendizado sobre:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -28,6 +28,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carolinwq&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 <br>
-
+<br>
+**Minhas redes sociais:**
+<br>
 📷 <a href="https://www.instagram.com/carolinwq/">Instagram</a><br>
 👔 <a href="https://www.linkedin.com/in/carolalambert/">Linkedin</a>
