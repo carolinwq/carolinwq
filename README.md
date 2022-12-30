@@ -10,8 +10,8 @@
 💼 **Experiência Atual:** Analista de Marketing Jr no Elo7<br>
 💗 **Hobbies:** Leitura, Política, Shows, Desenho, DIY, Artesanato, Decoração, Projetos Sociais<br>
 <br>
-<em>Depois de um tempo focada apenas em marketing/negócios, tenho aprendido mais sobre desenvolvimento web e sigo tentando ganhar o meu espacinho na área tech.</em><br>
-<br>
+
+
 • Formada no projeto <em>Eu Progr{amo}</em> pela ONG <a href="https://www.programaria.org/">PrograMaria</a><br>
 • Estudante de Front-end na <a href="https://www.alura.com.br/">Alura</a><br>
 <br>
