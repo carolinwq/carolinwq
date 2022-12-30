@@ -4,7 +4,7 @@
 📚 **Formação:** Marketing - SENAC
 <br>
 💼 **Experiência Atual:** Analista de Marketing no Elo7<br>
-💗 **Hobbies:** Leitura, Política, Desenho, DIY, Bordado, Projetos Manuais<br>
+💗 **Hobbies:** Leitura, Política, Shows, Desenho, DIY, Bordado, Projetos Manuais<br>
 <br>
 <em>Depois de um tempo focada apenas em marketing/negócios, tenho aprendido mais sobre desenvolvimento web, podendo, assim, complementar minha formação e seguir tentando ganhar o meu espacinho na área tech.</em><br>
 <br>
