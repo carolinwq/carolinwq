@@ -8,8 +8,6 @@
 📚 **Formação:** Marketing - SENAC
 <br>
 💼 **Experiência Atual:** Analista de Marketing Jr no Elo7<br>
-💗 **Hobbies:** Leitura, Política, Shows, Desenho, DIY, Artesanato, Decoração, Projetos Sociais<br>
-<br>
 
 
 • Formada no projeto <em>Eu Progr{amo}</em> pela ONG <a href="https://www.programaria.org/">PrograMaria</a><br>
