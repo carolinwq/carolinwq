@@ -7,7 +7,7 @@
 
 📚 **Formação:** Marketing - SENAC
 <br>
-💼 **Experiência Atual:** Analista de Marketing Jr no Elo7<br>
+💼 **Experiência Atual:** Analista de Marketing no Elo7<br>
 
 
 • Formada no projeto <em>Eu Progr{amo}</em> pela ONG <a href="https://www.programaria.org/">PrograMaria</a><br>
@@ -28,7 +28,7 @@
 </a>
 <br>
 <br>
-**Minhas redes sociais:**
-<br>
-📷 <a href="https://www.instagram.com/carolinwq/">Instagram</a><br>
-👔 <a href="https://www.linkedin.com/in/carolalambert/">Linkedin</a>
+
+
+
+
