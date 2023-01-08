@@ -1,8 +1,5 @@
 ### Oiii, eu sou a Carol 💟
-<img src="peachcat-new.gif">
-<br>
-
-
+<img src="no adventure here___.gif">
 <br>
 
 📚 **Formação:** Marketing - SENAC
