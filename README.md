@@ -14,7 +14,7 @@
 
 📚 **Formação:** Marketing - SENAC
 <br>
-💼 **Experiência Atual:** Analista de Marketing no Elo7<br>
+💼 **Experiência Atual:** Analista de Marketing no <a href="https://www.elo7.com.br/">Elo7</a><br>
 
 
 • Formada no projeto <em>Eu Progr{amo}</em> pela ONG <a href="https://www.programaria.org/">PrograMaria</a><br>
