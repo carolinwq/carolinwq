@@ -17,8 +17,8 @@
 💼 **Experiência Atual:** Analista de Marketing no <a href="https://www.elo7.com.br/">Elo7</a><br>
 
 
-• Formada no projeto <em>Eu Progr{amo}</em> pela ONG <a href="https://www.programaria.org/">PrograMaria</a><br>
-• Estudante de Front-end na <a href="https://www.alura.com.br/">Alura</a><br>
+• Formada no curso do projeto <a href="https://www.programaria.org/curso-online-euprogramo/"><em>Eu Progr{amo} #1</em></a> pela ONG <a href="https://www.programaria.org/">PrograMaria</a><br>
+• Estudante de Front-end na <a href="https://www.alura.com.br/">Alura</a> e na <a href="https://www.origamid.com/">Origamid</a><br>
 <br>
 
 💡 **Aprendendo sobre:**
