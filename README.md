@@ -29,16 +29,13 @@
 <br>
 
 <div align=center>
-<a href="https://github.com/carolinwq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinwq&theme=dracula&hide_langs_below=1" />
-</a>
-<a href="https://github.com/carolinwq">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=carolinwq&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+
+  ![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinwq&show_icons=true&theme=dracula)
+
+
+
  </div>
 </a>
 <br>
 <br>
-
-
-
 
